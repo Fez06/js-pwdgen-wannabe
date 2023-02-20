@@ -1,14 +1,14 @@
 'use strict';
 
-// Chiedo il nome 
+// Chiedo il nome e lo salvo
 
 const firstName = prompt('Dimmi il tuo nome!');
 
-// chiedo il cognome
+// chiedo il cognomee lo salvo
 
 const lastName = prompt('Ora il tuo cognome!');
 
-// chiedo il colore preferito
+// chiedo il colore preferito e lo salvo
 
 const prefColor = prompt('Il tuo colore preferito?');
 
